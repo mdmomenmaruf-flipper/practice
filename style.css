@@ -23,7 +23,7 @@ body{
 .container .title{
     text-align: center;
     margin: 2%  10%  ;
-    color: rgb(57, 212, 122);
+    color: rgb(0, 0, 0);
 }
 
 .container .title h2{
@@ -75,7 +75,7 @@ body{
     width: 100%;
     color: #fff;
     border-radius:5px ;
-    background-color: #494eea;
+    background-color: rgb(6, 160, 248);
     height: 5vh;
 }
 
